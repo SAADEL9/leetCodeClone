@@ -1,0 +1,11 @@
+C:\Users\elmahi\source\repos\ProblemeSolvingPlatformBLL\bin\Debug\net9.0\ProblemeSolvingPlatformBLL.deps.json
+C:\Users\elmahi\source\repos\ProblemeSolvingPlatformBLL\bin\Debug\net9.0\ProblemeSolvingPlatformBLL.dll
+C:\Users\elmahi\source\repos\ProblemeSolvingPlatformBLL\bin\Debug\net9.0\ProblemeSolvingPlatformBLL.pdb
+C:\Users\elmahi\source\repos\ProblemeSolvingPlatformBLL\obj\Debug\net9.0\ProblemeSolvingPlatformBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elmahi\source\repos\ProblemeSolvingPlatformBLL\obj\Debug\net9.0\ProblemeSolvingPlatformBLL.AssemblyInfoInputs.cache
+C:\Users\elmahi\source\repos\ProblemeSolvingPlatformBLL\obj\Debug\net9.0\ProblemeSolvingPlatformBLL.AssemblyInfo.cs
+C:\Users\elmahi\source\repos\ProblemeSolvingPlatformBLL\obj\Debug\net9.0\ProblemeSolvingPlatformBLL.csproj.CoreCompileInputs.cache
+C:\Users\elmahi\source\repos\ProblemeSolvingPlatformBLL\obj\Debug\net9.0\ProblemeSolvingPlatformBLL.dll
+C:\Users\elmahi\source\repos\ProblemeSolvingPlatformBLL\obj\Debug\net9.0\refint\ProblemeSolvingPlatformBLL.dll
+C:\Users\elmahi\source\repos\ProblemeSolvingPlatformBLL\obj\Debug\net9.0\ProblemeSolvingPlatformBLL.pdb
+C:\Users\elmahi\source\repos\ProblemeSolvingPlatformBLL\obj\Debug\net9.0\ref\ProblemeSolvingPlatformBLL.dll

@@ -1,0 +1,11 @@
+C:\Users\elmahi\source\repos\ProblemSolvingPlatformDAL\bin\Debug\net9.0\ProblemSolvingPlatformDAL.deps.json
+C:\Users\elmahi\source\repos\ProblemSolvingPlatformDAL\bin\Debug\net9.0\ProblemSolvingPlatformDAL.dll
+C:\Users\elmahi\source\repos\ProblemSolvingPlatformDAL\bin\Debug\net9.0\ProblemSolvingPlatformDAL.pdb
+C:\Users\elmahi\source\repos\ProblemSolvingPlatformDAL\obj\Debug\net9.0\ProblemSolvingPlatformDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elmahi\source\repos\ProblemSolvingPlatformDAL\obj\Debug\net9.0\ProblemSolvingPlatformDAL.AssemblyInfoInputs.cache
+C:\Users\elmahi\source\repos\ProblemSolvingPlatformDAL\obj\Debug\net9.0\ProblemSolvingPlatformDAL.AssemblyInfo.cs
+C:\Users\elmahi\source\repos\ProblemSolvingPlatformDAL\obj\Debug\net9.0\ProblemSolvingPlatformDAL.csproj.CoreCompileInputs.cache
+C:\Users\elmahi\source\repos\ProblemSolvingPlatformDAL\obj\Debug\net9.0\ProblemSolvingPlatformDAL.dll
+C:\Users\elmahi\source\repos\ProblemSolvingPlatformDAL\obj\Debug\net9.0\refint\ProblemSolvingPlatformDAL.dll
+C:\Users\elmahi\source\repos\ProblemSolvingPlatformDAL\obj\Debug\net9.0\ProblemSolvingPlatformDAL.pdb
+C:\Users\elmahi\source\repos\ProblemSolvingPlatformDAL\obj\Debug\net9.0\ref\ProblemSolvingPlatformDAL.dll
